@@ -19,7 +19,7 @@
 | 🚀 | **끝까지 만든다** | 직접 만들어 공개한 프로젝트 **30개 이상** |
 | ⚡ | **혼자서 빠르게** | 기획 → 개발 → 배포까지 단독으로 완성 |
 | 🧩 | **분야를 안 가린다** | 웹 · 데스크톱 앱 · 자동화 도구 · AI 서비스 |
-| 🤖 | **AI를 무기로** | Claude · GPT · Gemini · Ollama 직접 연동 |
+| 🤖 | **AI를 무기로** | 여러 AI를 직접 연동해 도구를 만듦 |
 | 📚 | **빠른 습득력** | 새로운 기술을 바로 실전에 적용 |
 
 ---
@@ -30,14 +30,16 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar) &nbsp;`⭐ 31`
+### 📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar)
+[![Stars](https://img.shields.io/github/stars/sodam-ai/ai-news-radar?style=social)](https://github.com/sodam-ai/ai-news-radar/stargazers)
 AI가 뉴스를 자동으로 **수집 · 요약 · 분류**해주는 대시보드
 <br/><sub>Python · Streamlit · Gemini</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer) &nbsp;`⭐ 15`
+### 🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer)
+[![Stars](https://img.shields.io/github/stars/sodam-ai/github-ai-explorer?style=social)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
 GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
 <br/><sub>Tauri · React · TypeScript</sub>
 
@@ -52,6 +54,8 @@ GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
 ## 🛠️ 기술 스택 · Tech Stack
 
 <div align="center">
+
+<sub>🤝 AI를 활용해 제품을 만들며 사용한 기술들</sub>
 
 **언어 · Languages**
 
