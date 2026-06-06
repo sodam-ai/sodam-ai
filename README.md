@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 SoDam AI Studio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=SoDam%20AI%20Studio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Maker%20·%20Web%20·%20Desktop%20·%20Automation&descSize=17&descAlignY=58" width="100%" alt="SoDam AI Studio"/>
 
 ### AI로 웹 · 데스크톱 앱 · 자동화 도구를 만드는 1인 개발 메이커 🚀
 
@@ -24,11 +24,24 @@
 
 ## 🚀 작업한 프로젝트 · Projects
 
-- 📡 **[AI News Radar](https://github.com/sodam-ai/ai-news-radar)** &nbsp; `⭐ 31`
-  <br/> AI가 뉴스를 자동으로 **수집 · 요약 · 분류**해주는 대시보드 &nbsp;·&nbsp; *Python · Streamlit · Gemini*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔍 **[GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer)** &nbsp; `⭐ 15`
-  <br/> GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱 &nbsp;·&nbsp; *Tauri · React · TypeScript*
+### 📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar) &nbsp;`⭐ 31`
+AI가 뉴스를 자동으로 **수집 · 요약 · 분류**해주는 대시보드
+<br/><sub>Python · Streamlit · Gemini</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer) &nbsp;`⭐ 15`
+GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
+<br/><sub>Tauri · React · TypeScript</sub>
+
+</td>
+</tr>
+</table>
 
 📂 [전체 프로젝트 보기 →](https://github.com/sodam-ai?tab=repositories)
 
@@ -57,6 +70,18 @@
 **배포 · 도구 · Deploy & Tools**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==)
+
+</div>
+
+---
+
+## 📊 GitHub 활동 · GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sodam-ai&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="58%" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodam-ai&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 
 </div>
 
