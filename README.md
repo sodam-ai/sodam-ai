@@ -1,47 +1,63 @@
-# Hi there 👋 SoDam AI Studio 입니다
+# 👋 SoDam AI Studio
 
-> **비개발자도 바로 쓸 수 있는 AI 도구**와 **왕초보용 원클릭 키트**를
-> AI와 함께(바이브코딩) 만드는 1인 스튜디오입니다. 🤖
+> **AI와 함께 소프트웨어를 만드는 1인 개발 스튜디오**
 
-코드를 직접 짜기보다 **자연어로 AI에게 말해서** 프로그램을 만듭니다.
-어려운 도구를 누구나 더블클릭 한 번으로 쓰게 만드는 걸 좋아해요.
-
----
-
-### 🧩 이런 걸 만듭니다
-
-- 🪄 **왕초보용 원클릭 CLI 키트** — Windows에서 더블클릭만으로 설치·실행·삭제
-  `Cloudflare` · `Vercel` · `Firebase` · `Netlify` · `Supabase` · `Gemini` · `Codex` 등 **10종 이상**
-- 🖥️ **로컬 AI 데스크톱 앱** — 내 컴퓨터에서 도는 AI 도구
-- 🕸️ **온톨로지 · 지식 그래프** — 정보를 연결해서 보는 도구
-- 🧰 **비개발자용 실용 웹/도구** — 정부 지원금 찾기, 1인용 칸반 보드 등
+- 🚀 아이디어를 빠르게 **실제 작동하는 프로그램**으로 만듭니다
+- 🧩 웹 · 데스크톱 앱 · 자동화 도구까지 **분야를 가리지 않고** 개발합니다
+- 📚 필요한 기술은 **바로 배워서 적용**하는 걸 좋아합니다
+- 🤖 AI를 적극 활용해 **혼자서도 빠르게** 결과물을 만들어냅니다
 
 ---
 
-### 🛠️ 사용 기술
+### 🛠️ 기술 스택
 
-| 영역 | 스택 |
-|---|---|
-| **데스크톱 앱** | ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
-| **웹** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
-| **자동화 · 스크립트** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Windows Batch](https://img.shields.io/badge/Windows%20Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white) |
-| **도구** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frontend & Desktop**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+
+**Database**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**AI / LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Deploy & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📌 대표 프로젝트
+### 🌐 Links
 
-| 프로젝트 | 한 줄 소개 |
-|---|---|
-| [**AIFlow**](https://github.com/sodam-ai/ai-flow) | 여러 AI(OpenAI·Claude·Gemini·Ollama…)를 한 곳에서 쓰는 로컬 데스크톱 채팅 앱 |
-| [**vibe-term-kit**](https://github.com/sodam-ai/vibe-term-kit) | 바이브코더를 위한 UI/UX 용어 사전 데스크톱 앱 |
-| [**neo4j-ontology-tools**](https://github.com/sodam-ai/neo4j-ontology-tools) | 지식 그래프 시각화 + 자연어 입력 + MCP 서버 |
-| [**원클릭 CLI 키트 시리즈**](https://github.com/sodam-ai?tab=repositories&q=One-Click_Kit) | 어려운 개발자 도구를 더블클릭 한 번으로 (Windows .bat) |
-| [**government-subsidy-helper**](https://github.com/sodam-ai/government-subsidy-helper) | 나에게 맞는 정부 지원 정책을 1분 만에 찾아주는 서비스 |
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sodam-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodam-ai)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@sodam_ai)
 
 ---
 
 ![SoDam AI Studio GitHub stats](https://github-readme-stats.vercel.app/api?username=sodam-ai&show_icons=true&hide_border=true&count_private=true)
-
-⭐ 천천히, 하지만 꾸준히 — 누구나 쓰기 쉬운 도구를 만듭니다.
-
