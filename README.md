@@ -22,7 +22,7 @@
 
 ---
 
-## 💡 대표 작업 · Featured
+## 🚀 작업한 프로젝트 · Projects
 
 - 📡 **[AI News Radar](https://github.com/sodam-ai/ai-news-radar)** &nbsp; `⭐ 31`
   <br/> AI가 뉴스를 자동으로 **수집 · 요약 · 분류**해주는 대시보드 &nbsp;·&nbsp; *Python · Streamlit · Gemini*
@@ -42,9 +42,13 @@
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,rust,html,css,bash,powershell" />
 
+`Python` `TypeScript` `JavaScript` `Rust` `HTML5` `CSS3` `Bash` `PowerShell`
+
 **화면 · 앱 · Frontend & Desktop**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tauri" />
+
+`React` `Next.js` `Tauri`
 
 **데이터베이스 · Database**
 
@@ -57,6 +61,8 @@
 **배포 · 도구 · Deploy & Tools**
 
 <img src="https://skillicons.dev/icons?i=vercel,githubactions,discord,git,vscode" />
+
+`Vercel` `GitHub Actions` `Discord` `Git` `VS Code`
 
 </div>
 
