@@ -75,11 +75,15 @@ GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
 
 ---
 
-## 📊 GitHub 활동 · GitHub Stats
+## 📊 활동 · Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sodam-ai&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="58%" alt="GitHub Streak" />
+**🤖 AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반</sub>
+
+![Tokens](https://img.shields.io/badge/Tokens-340M%2B-6366F1?style=for-the-badge) ![Messages](https://img.shields.io/badge/Messages-4%2C483-8B5CF6?style=for-the-badge) ![Agents](https://img.shields.io/badge/Agents-Codex%20·%20Gemini%20·%20Qwen-412991?style=for-the-badge)
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodam-ai&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 
