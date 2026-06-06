@@ -36,7 +36,7 @@
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=sqlite,supabase,neo4j" />
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
 **AI / LLM**
 
@@ -62,6 +62,6 @@
 
 <br/>
 
-`startmxk@gmail.com`
+`📧 startmxk@gmail.com`
 
 </div>
