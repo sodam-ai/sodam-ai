@@ -53,9 +53,8 @@ GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
 
 <div align="center">
 
-<sub>더 많은 작업물이 궁금하다면 👇</sub>
+<a href="https://github.com/sodam-ai?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=70&text=%F0%9F%93%82%20%EC%A0%84%EC%B2%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0%20%E2%86%92&fontSize=24&fontColor=ffffff&fontAlignY=58" width="100%" alt="전체 프로젝트 보러가기"/></a>
 
-<a href="https://github.com/sodam-ai?tab=repositories"><img src="https://img.shields.io/badge/📂%20전체%20프로젝트%20보러가기%20→-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="46" alt="전체 프로젝트 보기"/></a>
 
 
 </div>
