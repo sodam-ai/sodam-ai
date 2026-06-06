@@ -53,7 +53,10 @@ GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
 
 <div align="center">
 
-[![전체 프로젝트 보기](https://img.shields.io/badge/📂%20전체%20프로젝트%20보기-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sodam-ai?tab=repositories)
+<sub>더 많은 작업물이 궁금하다면 👇</sub>
+
+<a href="https://github.com/sodam-ai?tab=repositories"><img src="https://img.shields.io/badge/📂%20전체%20프로젝트%20보러가기%20→-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="46" alt="전체 프로젝트 보기"/></a>
+
 
 </div>
 
