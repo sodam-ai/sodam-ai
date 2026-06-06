@@ -31,16 +31,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar)
-[![Stars](https://img.shields.io/github/stars/sodam-ai/ai-news-radar?style=social)](https://github.com/sodam-ai/ai-news-radar/stargazers)
+📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/ai-news-radar?style=social)](https://github.com/sodam-ai/ai-news-radar/stargazers)
 AI가 뉴스를 자동으로 **수집 · 요약 · 분류**해주는 대시보드
 <br/><sub>Python · Streamlit · Gemini</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer)
-[![Stars](https://img.shields.io/github/stars/sodam-ai/github-ai-explorer?style=social)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
+🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/github-ai-explorer?style=social)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
 GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
 <br/><sub>Tauri · React · TypeScript</sub>
 
