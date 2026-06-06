@@ -51,7 +51,12 @@ GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
 </table>
 
 
-📂 [전체 프로젝트 보기 →](https://github.com/sodam-ai?tab=repositories)
+<div align="center">
+
+[![전체 프로젝트 보기](https://img.shields.io/badge/📂%20전체%20프로젝트%20보기-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sodam-ai?tab=repositories)
+
+</div>
+
 
 ---
 
