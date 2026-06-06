@@ -60,16 +60,6 @@
 
 ---
 
-## 🔥 GitHub 활동
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sodam-ai&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/sodam-ai)
-
-</div>
-
----
-
 ## 📫 연락처 & 링크
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sodam-portfolio.vercel.app/)
