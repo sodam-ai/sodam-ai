@@ -110,7 +110,7 @@ Nous Research Hermes 에이전트를 **원클릭 설치·실행**하는 Windows 
 
 **AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반</sub>
 
-![Tokens](https://img.shields.io/badge/Tokens-348M%2B-6366F1?style=flat-square) ![Messages](https://img.shields.io/badge/Messages-4%2C823-30363d?style=flat-square) ![Agents](https://img.shields.io/badge/Agents-Claude%20·%20Codex%20·%20Gemini%20·%20Qwen-30363d?style=flat-square)
+![Tokens](https://img.shields.io/badge/Tokens-348M%2B-6366F1?style=flat-square) ![Messages](https://img.shields.io/badge/Messages-4%2C828-30363d?style=flat-square) ![Agents](https://img.shields.io/badge/Agents-Claude%20·%20Codex%20·%20Gemini%20·%20Qwen-30363d?style=flat-square)
 
 <br/>
 
