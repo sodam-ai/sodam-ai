@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=150&section=header&text=SoDam%20AI%20Studio&fontSize=44&fontColor=ffffff&fontAlignY=48&desc=AI%20Maker%20·%20Web%20·%20Desktop%20·%20Automation&descSize=15&descAlignY=72&descColor=9CA3AF" width="100%" alt="SoDam AI Studio"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:30363D&height=180&section=header&text=SoDam%20AI%20Studio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Maker%20·%20Web%20·%20Desktop%20·%20Automation&descSize=15&descAlignY=58&descColor=9CA3AF" width="100%" alt="SoDam AI Studio"/>
 
 ### AI로 웹 · 데스크톱 앱 · 자동화 도구를 만드는 1인 개발 메이커
 
