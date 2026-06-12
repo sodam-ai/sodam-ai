@@ -131,8 +131,13 @@
 
 <a href="https://open.kakao.com/o/sTnlcmgh"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=60&text=%F0%9F%92%AC%20%EC%9E%91%EC%97%85%20%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" alt="작업 문의하기 (카카오 오픈채팅)"/></a>
 
-🔗 [Litt.ly](https://litt.ly/sodam_ai) &nbsp;·&nbsp; 🌐 [Portfolio](https://sodam-portfolio.vercel.app/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sodam-ai) &nbsp;·&nbsp; 🧵 [Threads](https://www.threads.com/@sodam_ai/) &nbsp;·&nbsp; 📸 [Instagram](https://www.instagram.com/sodam_ai/)
+[![Litt.ly](https://img.shields.io/badge/Litt.ly-8B5CF6?style=for-the-badge)](https://litt.ly/sodam_ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sodam-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodam-ai)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@sodam_ai/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sodam_ai/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:startmxk101@gmail.com)
 
-📧 **[startmxk@gmail.com](mailto:startmxk@gmail.com)**
+📧 startmxk101@gmail.com
 
 </div>
