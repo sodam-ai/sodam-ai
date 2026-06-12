@@ -29,42 +29,66 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58" align="center" valign="top">
 
-**📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar)** &nbsp; [![Stars](https://img.shields.io/github/stars/sodam-ai/ai-news-radar?style=social)](https://github.com/sodam-ai/ai-news-radar/stargazers)
+### 📡
+
+</td>
+<td valign="top">
+
+#### [AI News Radar](https://github.com/sodam-ai/ai-news-radar) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/ai-news-radar?style=social)](https://github.com/sodam-ai/ai-news-radar/stargazers)
 
 AI가 뉴스를 자동으로 **수집 · 요약 · 분류**해주는 대시보드
 
-<sub>`Python` `Streamlit` `Gemini`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer)** &nbsp; [![Stars](https://img.shields.io/github/stars/sodam-ai/github-ai-explorer?style=social)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
-
-GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
-
-<sub>`Tauri` `React` `TypeScript`</sub>
+`Python` &nbsp; `Streamlit` &nbsp; `Gemini`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="58" align="center" valign="top">
 
-**🗂️ [Wikimate](https://github.com/sodam-ai/wikimate)** &nbsp; [![Stars](https://img.shields.io/github/stars/sodam-ai/wikimate?style=social)](https://github.com/sodam-ai/wikimate/stargazers)
+### 🔍
+
+</td>
+<td valign="top">
+
+#### [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/github-ai-explorer?style=social)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
+
+GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
+
+`Tauri` &nbsp; `React` &nbsp; `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="58" align="center" valign="top">
+
+### 🗂️
+
+</td>
+<td valign="top">
+
+#### [Wikimate](https://github.com/sodam-ai/wikimate) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/wikimate?style=social)](https://github.com/sodam-ai/wikimate/stargazers)
 
 AI 에이전트가 흩어진 자료를 **Obsidian · Notion에 자동 정리**하는 도구
 
-<sub>`Node.js` `MCP` `Obsidian`</sub>
+`Node.js` &nbsp; `MCP` &nbsp; `Obsidian`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="58" align="center" valign="top">
 
-**📱 [RemoteBridge](https://github.com/sodam-ai/remotebridge)** &nbsp; [![Stars](https://img.shields.io/github/stars/sodam-ai/remotebridge?style=social)](https://github.com/sodam-ai/remotebridge/stargazers)
+### 📱
+
+</td>
+<td valign="top">
+
+#### [RemoteBridge](https://github.com/sodam-ai/remotebridge) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/remotebridge?style=social)](https://github.com/sodam-ai/remotebridge/stargazers)
 
 내 PC의 AI 코딩 도구를 **폰에서 안전하게 원격 조작**하는 도구
 
-<sub>`TypeScript` `Node.js` `Telegram`</sub>
+`TypeScript` &nbsp; `Node.js` &nbsp; `Telegram`
 
 </td>
 </tr>
