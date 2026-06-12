@@ -31,14 +31,14 @@
 <tr>
 <td width="50%" valign="top">
 
-**📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar)** &nbsp;[![Stars](https://img.shields.io/badge/Stars-31-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/ai-news-radar/stargazers)<br/>
+#### 📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar) &nbsp;[![Stars](https://img.shields.io/badge/Stars-31-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/ai-news-radar/stargazers)
 뉴스를 자동으로 **수집·요약·분류**하는 AI 대시보드<br/>
 `Python` `Streamlit` `Gemini`
 
 </td>
 <td width="50%" valign="top">
 
-**🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer)** &nbsp;[![Stars](https://img.shields.io/badge/Stars-15-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/github-ai-explorer/stargazers)<br/>
+#### 🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer) &nbsp;[![Stars](https://img.shields.io/badge/Stars-15-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
 저장소·이슈를 **AI 자연어로 검색**하는 데스크톱 앱<br/>
 `Tauri` `React` `TypeScript`
 
@@ -47,14 +47,14 @@
 <tr>
 <td width="50%" valign="top">
 
-**🗂️ [Wikimate](https://github.com/sodam-ai/wikimate)** &nbsp;[![Stars](https://img.shields.io/badge/Stars-15-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/wikimate/stargazers)<br/>
+#### 🗂️ [Wikimate](https://github.com/sodam-ai/wikimate) &nbsp;[![Stars](https://img.shields.io/badge/Stars-15-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/wikimate/stargazers)
 흩어진 자료를 **Obsidian·Notion에 자동 정리**하는 AI 도구<br/>
 `Node.js` `MCP` `Obsidian`
 
 </td>
 <td width="50%" valign="top">
 
-**📱 [RemoteBridge](https://github.com/sodam-ai/remotebridge)** &nbsp;[![Stars](https://img.shields.io/badge/Stars-1-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/remotebridge/stargazers)<br/>
+#### 📱 [RemoteBridge](https://github.com/sodam-ai/remotebridge) &nbsp;[![Stars](https://img.shields.io/badge/Stars-1-30363d?logo=github&logoColor=white)](https://github.com/sodam-ai/remotebridge/stargazers)
 내 PC의 AI 코딩 도구를 **폰에서 원격 조작**<br/>
 `TypeScript` `Node.js` `Telegram`
 
