@@ -29,66 +29,34 @@
 
 <table>
 <tr>
-<td width="58" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 📡
-
-</td>
-<td valign="top">
-
-#### [AI News Radar](https://github.com/sodam-ai/ai-news-radar) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/ai-news-radar?style=social)](https://github.com/sodam-ai/ai-news-radar/stargazers)
-
-AI가 뉴스를 자동으로 **수집 · 요약 · 분류**해주는 대시보드
-
-`Python` &nbsp; `Streamlit` &nbsp; `Gemini`
+**📡 [AI News Radar](https://github.com/sodam-ai/ai-news-radar)** &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/ai-news-radar?style=social)](https://github.com/sodam-ai/ai-news-radar/stargazers)<br/>
+뉴스를 자동으로 **수집·요약·분류**하는 AI 대시보드<br/>
+`Python` `Streamlit` `Gemini`
 
 </td>
-</tr>
-<tr>
-<td width="58" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🔍
-
-</td>
-<td valign="top">
-
-#### [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/github-ai-explorer?style=social)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
-
-GitHub 저장소 · 이슈를 **AI로 자연어 검색**하는 데스크톱 앱
-
-`Tauri` &nbsp; `React` &nbsp; `TypeScript`
+**🔍 [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer)** &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/github-ai-explorer?style=social)](https://github.com/sodam-ai/github-ai-explorer/stargazers)<br/>
+저장소·이슈를 **AI 자연어로 검색**하는 데스크톱 앱<br/>
+`Tauri` `React` `TypeScript`
 
 </td>
 </tr>
 <tr>
-<td width="58" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🗂️
-
-</td>
-<td valign="top">
-
-#### [Wikimate](https://github.com/sodam-ai/wikimate) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/wikimate?style=social)](https://github.com/sodam-ai/wikimate/stargazers)
-
-AI 에이전트가 흩어진 자료를 **Obsidian · Notion에 자동 정리**하는 도구
-
-`Node.js` &nbsp; `MCP` &nbsp; `Obsidian`
+**🗂️ [Wikimate](https://github.com/sodam-ai/wikimate)** &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/wikimate?style=social)](https://github.com/sodam-ai/wikimate/stargazers)<br/>
+흩어진 자료를 **Obsidian·Notion에 자동 정리**하는 AI 도구<br/>
+`Node.js` `MCP` `Obsidian`
 
 </td>
-</tr>
-<tr>
-<td width="58" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 📱
-
-</td>
-<td valign="top">
-
-#### [RemoteBridge](https://github.com/sodam-ai/remotebridge) &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/remotebridge?style=social)](https://github.com/sodam-ai/remotebridge/stargazers)
-
-내 PC의 AI 코딩 도구를 **폰에서 안전하게 원격 조작**하는 도구
-
-`TypeScript` &nbsp; `Node.js` &nbsp; `Telegram`
+**📱 [RemoteBridge](https://github.com/sodam-ai/remotebridge)** &nbsp;[![Stars](https://img.shields.io/github/stars/sodam-ai/remotebridge?style=social)](https://github.com/sodam-ai/remotebridge/stargazers)<br/>
+내 PC의 AI 코딩 도구를 **폰에서 원격 조작**<br/>
+`TypeScript` `Node.js` `Telegram`
 
 </td>
 </tr>
