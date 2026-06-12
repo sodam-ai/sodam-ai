@@ -54,9 +54,9 @@
 </td>
 <td width="50%" valign="top">
 
-### [RemoteBridge](https://github.com/sodam-ai/remotebridge) &nbsp;[![Stars](https://img.shields.io/badge/Stars-1-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/sodam-ai/remotebridge/stargazers)
-내 PC의 AI 코딩 도구를 **폰에서 원격 조작**<br/>
-`TypeScript` `Node.js` `Telegram`
+### [Knowledge Information Hub](https://github.com/sodam-ai/knowledge-information-hub) &nbsp;[![Stars](https://img.shields.io/badge/Stars-6-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/sodam-ai/knowledge-information-hub/stargazers)
+링크·노트를 함께 모아 빠르게 찾는 **그룹 지식 창고**<br/>
+`Next.js` `React` `Supabase`
 
 </td>
 </tr>
