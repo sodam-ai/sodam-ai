@@ -31,11 +31,20 @@
 <tr>
 <td width="50%" valign="top">
 
+### [Hermes Agent One-Click Kit](https://github.com/sodam-ai/Hermes-Agent_One-Click_Kit) &nbsp;[![Stars](https://img.shields.io/badge/Stars-32-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/sodam-ai/Hermes-Agent_One-Click_Kit/stargazers)
+Nous Research Hermes 에이전트를 **원클릭 설치·실행**하는 Windows 키트<br/>
+`Windows` `Batchfile`
+
+</td>
+<td width="50%" valign="top">
+
 ### [AI News Radar](https://github.com/sodam-ai/ai-news-radar) &nbsp;[![Stars](https://img.shields.io/badge/Stars-31-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/sodam-ai/ai-news-radar/stargazers)
 뉴스를 자동으로 **수집·요약·분류**하는 AI 대시보드<br/>
 `Python` `Streamlit` `Gemini`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [GitHub AI Explorer](https://github.com/sodam-ai/github-ai-explorer) &nbsp;[![Stars](https://img.shields.io/badge/Stars-15-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/sodam-ai/github-ai-explorer/stargazers)
@@ -43,20 +52,11 @@
 `Tauri` `React` `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Wikimate](https://github.com/sodam-ai/wikimate) &nbsp;[![Stars](https://img.shields.io/badge/Stars-15-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/sodam-ai/wikimate/stargazers)
 흩어진 자료를 **Obsidian·Notion에 자동 정리**하는 AI 도구<br/>
 `Node.js` `MCP` `Obsidian`
-
-</td>
-<td width="50%" valign="top">
-
-### [Knowledge Information Hub](https://github.com/sodam-ai/knowledge-information-hub) &nbsp;[![Stars](https://img.shields.io/badge/Stars-6-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/sodam-ai/knowledge-information-hub/stargazers)
-링크·노트를 함께 모아 빠르게 찾는 **그룹 지식 창고**<br/>
-`Next.js` `React` `Supabase`
 
 </td>
 </tr>
