@@ -126,7 +126,7 @@
 
 ### 💡 필요한 도구, 직접 만들어 드립니다
 
-아이디어를 **AI로 빠르게 '작동하는 제품'**으로 만듭니다.<br/>
+아이디어를 **AI로 빠르게 '작동하는 제품'으로** 만듭니다.<br/>
 웹 · 데스크톱 앱 · 자동화 도구 제작 **의뢰 · 협업** 환영합니다.
 
 <a href="https://open.kakao.com/o/sTnlcmgh"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=60&text=%F0%9F%92%AC%20%EC%9E%91%EC%97%85%20%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" alt="작업 문의하기 (카카오 오픈채팅)"/></a>
