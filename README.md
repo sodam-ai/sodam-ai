@@ -29,9 +29,15 @@
 
 <table>
 <tr><td><b><a href="https://github.com/sodam-ai/ClaudeTower">ClaudeTower</a></b></td><td>Claude Code 상태표시줄에 모델·컨텍스트·비용을 실시간 표시하는 CLI</td></tr>
-<tr><td><b><a href="https://github.com/sodam-ai/ai-news-radar">AI News Radar</a></b></td><td>뉴스를 자동으로 수집·요약·분류하는 AI 대시보드</td></tr>
-<tr><td><b><a href="https://github.com/sodam-ai/github-ai-explorer">GitHub AI Explorer</a></b></td><td>저장소·이슈를 AI 자연어로 검색하는 데스크톱 앱</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/SoDam_O-Brain">SoDam O-Brain</a></b></td><td>AI와의 대화에서 결정·약속을 자동 기억하고 지식그래프로 보여주는 100% 로컬 메모리 도구</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/Linear-CLI_One-Click_Kit">Linear CLI 원클릭 키트</a></b></td><td>Windows에서 클릭 한 번으로 Linear를 설치·로그인·사용하는 키트</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/SoDam-Agent">SoDam-Agent</a></b></td><td>Claude Code에 역할별 AI 에이전트 팀을 마켓플레이스로 설치하는 비개발자용 도구</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/Kill-Claude_Code-Zombies">Kill-Claude_Code-Zombies</a></b></td><td>종료된 Claude Code 세션이 남긴 좀비 프로세스만 안전하게 정리하는 Windows 도구</td></tr>
 <tr><td><b><a href="https://github.com/sodam-ai/SoDam-WikiMate">SoDam-WikiMate</a></b></td><td>흩어진 자료를 Obsidian·Notion에 자동 정리하는 AI 도구</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/Dev_One-Click_Setting_Kit">Dev 원클릭 개발환경 키트</a></b></td><td>AI 바이브코딩 개발환경을 한 번의 클릭으로 안전하게 설치하는 Windows 키트</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/Vercel-CLI_One-Click_Kit">Vercel CLI 원클릭 키트</a></b></td><td>Windows에서 Vercel CLI를 설치하고 로그인·배포까지 메뉴로 다루는 키트</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/Supabase-CLI_One-Click_Kit">Supabase CLI 원클릭 키트</a></b></td><td>Supabase CLI를 설치·로그인·사용·제거하는 Windows 키트</td></tr>
+<tr><td><b><a href="https://github.com/sodam-ai/Railway-CLI_One-Click_Kit">Railway CLI 원클릭 키트</a></b></td><td>Railway CLI를 클릭 몇 번으로 설치·배포하는 왕초보용 키트</td></tr>
 </table>
 
 
@@ -62,7 +68,7 @@
 
 **데이터베이스 · Database**
 
-![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square&logo=neo4j&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-30363d?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
 
 **AI 모델 · AI / LLM**
 
