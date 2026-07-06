@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>SoDam AI Studio · Contact</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    height: 100%;
+  }
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0D1117;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Pretendard, sans-serif;
+  }
+  .popup {
+    background: #161B22;
+    border: 1px solid #30363D;
+    border-radius: 16px;
+    padding: 36px 40px;
+    text-align: center;
+    max-width: 360px;
+    width: 90%;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+  }
+  .popup h1 {
+    color: #fff;
+    font-size: 18px;
+    margin: 0 0 8px;
+  }
+  .popup p.sub {
+    color: #9CA3AF;
+    font-size: 13px;
+    margin: 0 0 20px;
+  }
+  .email-box {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #0D1117;
+    border: 1px solid #30363D;
+    border-radius: 8px;
+    padding: 10px 14px;
+    margin-bottom: 16px;
+  }
+  .email-box code {
+    color: #E5E7EB;
+    font-size: 14px;
+    flex: 1;
+    text-align: left;
+    overflow-wrap: anywhere;
+  }
+  button {
+    background: #6366F1;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    width: 100%;
+    transition: background 0.15s;
+  }
+  button:hover { background: #5457E0; }
+  button.copied { background: #22C55E; }
+</style>
+</head>
+<body>
+  <div class="popup">
+    <h1>💬 SoDam AI Studio</h1>
+    <p class="sub">아래 이메일 주소를 복사해서 연락해 주세요</p>
+    <div class="email-box">
+      <code id="email">the.sodam.ai@gmail.com</code>
+    </div>
+    <button id="copyBtn" type="button">이메일 주소 복사하기</button>
+  </div>
+  <script>
+    document.getElementById('copyBtn').addEventListener('click', function () {
+      var email = document.getElementById('email').textContent;
+      var btn = this;
+      navigator.clipboard.writeText(email).then(function () {
+        btn.textContent = '✓ 복사됨!';
+        btn.classList.add('copied');
+        setTimeout(function () {
+          btn.textContent = '이메일 주소 복사하기';
+          btn.classList.remove('copied');
+        }, 1800);
+      });
+    });
+  </script>
+</body>
+</html>
