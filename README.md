@@ -132,7 +132,7 @@ Claude Code 상태표시줄에 **모델·컨텍스트·비용**을 실시간 표
 <a href="https://open.kakao.com/o/sTnlcmgh"><img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=60&text=%F0%9F%92%AC%20%EC%9E%91%EC%97%85%20%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" alt="작업 문의하기 (카카오 오픈채팅)"/></a>
 
 [![Litt.ly](https://img.shields.io/badge/Litt.ly-30363d?style=flat-square)](https://litt.ly/sodam_ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://sodam-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://www.sodam-ai.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodam-ai)
 [![Threads](https://img.shields.io/badge/Threads-30363d?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@sodam_ai/)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sodam_ai/)
