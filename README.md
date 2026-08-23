@@ -120,9 +120,9 @@
 
 <div align="center">
 
-**AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반 · 2026-08-23 기준 수동 갱신</sub>
+**AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반 · 2026-08-24 기준 수동 갱신</sub>
 
-![Tokens](https://img.shields.io/badge/Tokens-492M%2B-6366F1?style=for-the-badge&logo=stackblitz&logoColor=white) ![Sessions](https://img.shields.io/badge/Sessions-2%2C526%2B-3B82F6?style=for-the-badge&logo=clockify&logoColor=white) ![Agents](https://img.shields.io/badge/Agents-Claude_·_Codex_·_Gemini_·_Qwen-10B981?style=for-the-badge&logo=robotframework&logoColor=white)
+![Tokens](https://img.shields.io/badge/Tokens-493M%2B-6366F1?style=for-the-badge&logo=stackblitz&logoColor=white) ![Sessions](https://img.shields.io/badge/Sessions-2%2C529%2B-3B82F6?style=for-the-badge&logo=clockify&logoColor=white) ![Agents](https://img.shields.io/badge/Agents-Claude_·_Codex_·_Gemini_·_Qwen-10B981?style=for-the-badge&logo=robotframework&logoColor=white)
 
 <br/>
 

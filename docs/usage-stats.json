@@ -1,9 +1,9 @@
 {
   "_readme": "README.md의 Activity 배지(Tokens/Sessions) 누적 체크포인트. 다음 갱신 시 lastScannedAt 이후 로컬 Claude Code 세션 로그만 새로 집계해서 cumulative* 값에 더할 것 — 처음부터 다시 계산하지 말 것(로컬 로그가 약 30일 지나면 자동 삭제되어 전체 재계산 시 과거 구간이 누락됨).",
-  "lastScannedAt": "2026-08-23T18:50:00.000Z",
-  "cumulativeTokens": 492682124,
+  "lastScannedAt": "2026-08-23T19:19:30.000Z",
+  "cumulativeTokens": 493886504,
   "cumulativeTokensDefinition": "input_tokens + output_tokens 합계. 최상위(non-subagent, isSidechain=false) 대화만. 캐시 생성/읽기 토큰은 제외(표준적 정의).",
-  "cumulativeSessions": 2526,
+  "cumulativeSessions": 2529,
   "cumulativeSessionsDefinition": "최상위(non-subagent) 사용자 메시지가 1건 이상 있는 세션 파일 수.",
   "history": [
     {
@@ -23,6 +23,12 @@
       "tokensAdded": 1157612,
       "sessionsAdded": 9,
       "note": "Activity 섹션 전수 검증 시 증분 반영. 30일 창 재집계값(135,818,399 토큰/2,523 세션)은 오래된 로그 삭제로 직전 측정보다 낮아졌으므로 사용하지 않고, lastScannedAt 이후 증분만 누적함."
+    },
+    {
+      "date": "2026-08-23",
+      "tokensAdded": 1204380,
+      "sessionsAdded": 3,
+      "note": "Activity 실시간연동 여부 확인 세션 반영. 다음 갱신 시 lastScannedAt 이후 파일만 재집계할 것."
     }
   ]
 }
