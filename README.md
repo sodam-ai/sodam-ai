@@ -90,15 +90,21 @@
 
 **언어 · Languages**
 
-![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-30363d?style=flat-square&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-30363d?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-30363d?style=flat-square&logo=css&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-30363d?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUG93ZXJTaGVsbDwvdGl0bGU%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMy4xODEgMi45NzRjLjU2OCAwIC45MjMuNDYzLjc5MiAxLjAzNWwtMy42NTkgMTUuOTgyYy0uMTMuNTcyLS42OTcgMS4wMzUtMS4yNjUgMS4wMzVILjgxOWMtLjU2OCAwLS45MjMtLjQ2My0uNzkyLTEuMDM1TDMuNjg2IDQuMDA5Yy4xMy0uNTcyLjY5Ny0xLjAzNSAxLjI2NS0xLjAzNXptLTguMzc1IDkuMzQ2Yy4yNTEtLjM5NC4yMjctLjkwNS0uMDktMS4yNDNMOS4xMjIgNS4xMjVjLS4zOC0uNDA0LTEuMDM3LS40MDctMS40NjYtLjAwMy0uNDI5LjQwMi0uNDY4IDEuMDU2LS4wODggMS40Nmw0LjY2MiA0Ljk2di4xMWwtNy40MiA1LjM3NGMtLjQ1LjMyNy0uNTMzLjk3Ny0uMTg3IDEuNDUzLjM0Ni40NzYuOTkxLjU5NyAxLjQ0LjI3bDguMjI5LTUuOTFjLjI4LS4xOTYuNDM4LS4zNjUuNTE0LS41MnptLTIuNzk2IDQuMzk5YS45MjguOTI4IDAgMDAtLjkzNC45MjNjMCAuNTEuNDE4LjkyMy45MzQuOTIzaDQuNDMzYS45MjguOTI4IDAgMDAuOTM0LS45MjMuOTI4LjkyOCAwIDAwLS45MzQtLjkyM3oiLz48L3N2Zz4=) ![Windows Batch](https://img.shields.io/badge/Windows%20Batch-30363d?style=flat-square&logo=gnometerminal&logoColor=white) ![Java](https://img.shields.io/badge/Java-30363d?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,ts,js,rust,java,html,css,bash,powershell&theme=dark" alt="Languages"/>
+<br/>
+![Windows Batch](https://img.shields.io/badge/Windows%20Batch-30363d?style=flat-square&logo=gnometerminal&logoColor=white)
 
 **프론트엔드 · 데스크톱 · Frontend & Desktop**
 
-![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-30363d?style=flat-square&logo=nextdotjs&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-30363d?style=flat-square&logo=tauri&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-30363d?style=flat-square&logo=electron&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-30363d?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-30363d?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tauri,electron,nodejs,vite,tailwind&theme=dark" alt="Frontend & Desktop"/>
+<br/>
+![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white)
 
 **데이터베이스 · Database**
 
-![SQLite](https://img.shields.io/badge/SQLite-30363d?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-30363d?style=flat-square&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-30363d?style=flat-square&logo=neon&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-30363d?style=flat-square&logo=firebase&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-30363d?style=flat-square&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,supabase,mongodb,firebase,redis&theme=dark" alt="Database"/>
+<br/>
+![Neon](https://img.shields.io/badge/Neon-30363d?style=flat-square&logo=neon&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
 
 **AI 모델 · AI / LLM**
 
@@ -106,7 +112,9 @@
 
 **배포 · 도구 · Deploy & Tools**
 
-![Vercel](https://img.shields.io/badge/Vercel-30363d?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-30363d?style=flat-square&logo=netlify&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-30363d?style=flat-square&logo=railway&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-30363d?style=flat-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363d?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker,githubactions,git&theme=dark" alt="Deploy & Tools"/>
+<br/>
+![Railway](https://img.shields.io/badge/Railway-30363d?style=flat-square&logo=railway&logoColor=white)
 
 </div>
 
