@@ -57,7 +57,7 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Harness-Eng">SoDam-Harness-Eng</a></b></td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Harness-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>AI 위험 작업 자동 차단·백업·되돌리기</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Context-Eng">SoDam-Context-Eng</a></b></td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Context-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>AI 사용설명서(CLAUDE.md) 검진·다듬기</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Loop-Eng">SoDam-Loop-Eng</a></b></td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Loop-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>안전장치 갖춘 AI 반복 작업 자동화</td></tr>
