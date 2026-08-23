@@ -96,7 +96,7 @@
 
 **데이터베이스 · Database**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,supabase,mongodb,firebase,redis,neon,neo4j&theme=dark" alt="Database"/><img src="docs/icons/chromadb.svg" alt="ChromaDB"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,supabase,mongodb,firebase,redis,neon,neo4j&theme=dark" alt="Database"/>&nbsp;&nbsp;<img src="docs/icons/chromadb.svg" alt="ChromaDB"/>
 
 <sub>SQLite · PostgreSQL · Supabase · MongoDB · Firebase · Redis · Neon · Neo4j · ChromaDB</sub>
 
