@@ -153,7 +153,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://www.sodam-ai.xyz)
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](https://sodam-ai.github.io/sodam-ai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodam-ai)
+[![LinkedIn](docs/icons/linkedin-badge.svg)](https://www.linkedin.com/in/sodam-ai)
 [![Threads](https://img.shields.io/badge/Threads-30363d?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@sodam_ai/)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sodam_ai/)
 [![YouTube](https://img.shields.io/badge/YouTube-30363d?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Sodam_AI_Studio)
