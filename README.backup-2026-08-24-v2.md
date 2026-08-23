@@ -1,0 +1,127 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:30363D&height=180&section=header&text=SoDam%20AI%20Studio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Maker%20·%20Web%20·%20Desktop%20·%20Automation&descSize=15&descAlignY=58&descColor=9CA3AF" width="100%" alt="SoDam AI Studio"/>
+
+### AI로 웹 · 데스크톱 앱 · 자동화 도구를 만드는 1인 개발 메이커
+
+📍 South Korea
+
+</div>
+
+---
+
+## 소개 · About Me
+
+> **AI를 무기로, 아이디어를 빠르게 '진짜 작동하는 제품'으로 만드는 1인 개발 메이커입니다.**
+
+<table>
+<tr><td><b>끝까지 만든다</b></td><td>직접 만들어 공개한 프로젝트 <b>70개 이상</b></td></tr>
+<tr><td><b>혼자서 빠르게</b></td><td>기획 → 개발 → 배포까지 단독으로 완성</td></tr>
+<tr><td><b>분야를 안 가린다</b></td><td>웹 · 데스크톱 앱 · CLI · 자동화 도구 · AI 플러그인까지</td></tr>
+<tr><td><b>생태계로 만든다</b></td><td>역할별 플러그인이 한 팀처럼 협력하는 모듈형 생태계</td></tr>
+<tr><td><b>AI를 무기로</b></td><td>여러 AI를 직접 연동해 도구를 만듦</td></tr>
+<tr><td><b>빠른 습득력</b></td><td>다양한 언어와 여러 프레임워크를 실전에 바로 적용</td></tr>
+</table>
+
+
+---
+
+## 작업한 프로젝트 · Projects
+
+<table>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Harness-Eng">SoDam-Harness-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>AI 위험 작업 자동 차단·백업·되돌리기</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Context-Eng">SoDam-Context-Eng</a></b></td><td width="1%" align="center">⭐3</td><td>AI 사용설명서(CLAUDE.md) 검진·다듬기</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Loop-Eng">SoDam-Loop-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>안전장치 갖춘 AI 반복 작업 자동화</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Agentic-Eng">SoDam-Agentic-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>계획→실행→검토, 체계적인 AI 작업 파트너</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Prompt-Eng">SoDam-Prompt-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>초보자용 한국어 글쓰기 스킬 모음</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Reverse-Eng">SoDam-Reverse-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>방어·교육 전용 리버스 엔지니어링 분석</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Graph-Eng">SoDam-Graph-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>소담 7형제 진행 상태 자동 지도화</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-WikiMate">SoDam-WikiMate</a></b></td><td width="1%" align="center">⭐51</td><td>흩어진 자료를 Obsidian·Notion에 자동 정리</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona">SoDam-Persona</a></b></td><td width="1%" align="center">⭐17</td><td>15명 전문가 관점의 AI 개발 파트너 페르소나</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam_O-Brain">SoDam O-Brain</a></b></td><td width="1%" align="center">⭐14</td><td>대화의 결정·약속을 자동 기억하는 100% 로컬 지식그래프</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Agent">SoDam-Agent</a></b></td><td width="1%" align="center">⭐14</td><td>역할별 AI 에이전트 팀 마켓플레이스 설치 도구</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-SeoMedic">SoDam-SeoMedic</a></b></td><td width="1%" align="center">⭐13</td><td>웹사이트 SEO/GEO 진단·자동 수정</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/ClaudeTower">ClaudeTower</a></b></td><td width="1%" align="center">⭐9</td><td>Claude Code 상태표시줄 — 모델·컨텍스트·비용 표시</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Design-Kit">SoDam-Design-Kit</a></b></td><td width="1%" align="center">⭐6</td><td>Figma 디자인 → shadcn/ui 코드 자동 변환</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona-Codex">SoDam-Persona-Codex</a></b></td><td width="1%" align="center">⭐6</td><td>OpenAI Codex용 한국어 AI 개발 파트너 페르소나</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/business-counselor">business-counselor</a></b></td><td width="1%" align="center">⭐3</td><td>13명 다관점 토론으로 사업 아이디어 검증</td></tr>
+</table>
+
+
+<div align="center">
+
+<a href="https://github.com/sodam-ai?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=70&text=%F0%9F%93%82%20%EC%A0%84%EC%B2%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0%20%E2%86%92&fontSize=24&fontColor=ffffff&fontAlignY=58" width="100%" alt="전체 프로젝트 보러가기"/></a>
+
+
+
+</div>
+
+
+---
+
+## 기술 스택 · Tech Stack
+
+<div align="center">
+
+<sub>AI를 활용해 제품을 만들며 사용한 기술들</sub>
+
+**언어 · Languages**
+
+![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-30363d?style=flat-square&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-30363d?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-30363d?style=flat-square&logo=css&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-30363d?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUG93ZXJTaGVsbDwvdGl0bGU%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMy4xODEgMi45NzRjLjU2OCAwIC45MjMuNDYzLjc5MiAxLjAzNWwtMy42NTkgMTUuOTgyYy0uMTMuNTcyLS42OTcgMS4wMzUtMS4yNjUgMS4wMzVILjgxOWMtLjU2OCAwLS45MjMtLjQ2My0uNzkyLTEuMDM1TDMuNjg2IDQuMDA5Yy4xMy0uNTcyLjY5Ny0xLjAzNSAxLjI2NS0xLjAzNXptLTguMzc1IDkuMzQ2Yy4yNTEtLjM5NC4yMjctLjkwNS0uMDktMS4yNDNMOS4xMjIgNS4xMjVjLS4zOC0uNDA0LTEuMDM3LS40MDctMS40NjYtLjAwMy0uNDI5LjQwMi0uNDY4IDEuMDU2LS4wODggMS40Nmw0LjY2MiA0Ljk2di4xMWwtNy40MiA1LjM3NGMtLjQ1LjMyNy0uNTMzLjk3Ny0uMTg3IDEuNDUzLjM0Ni40NzYuOTkxLjU5NyAxLjQ0LjI3bDguMjI5LTUuOTFjLjI4LS4xOTYuNDM4LS4zNjUuNTE0LS41MnptLTIuNzk2IDQuMzk5YS45MjguOTI4IDAgMDAtLjkzNC45MjNjMCAuNTEuNDE4LjkyMy45MzQuOTIzaDQuNDMzYS45MjguOTI4IDAgMDAuOTM0LS45MjMuOTI4LjkyOCAwIDAwLS45MzQtLjkyM3oiLz48L3N2Zz4=) ![Windows Batch](https://img.shields.io/badge/Windows%20Batch-30363d?style=flat-square&logo=gnometerminal&logoColor=white) ![Java](https://img.shields.io/badge/Java-30363d?style=flat-square&logo=openjdk&logoColor=white)
+
+**프론트엔드 · 데스크톱 · Frontend & Desktop**
+
+![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-30363d?style=flat-square&logo=nextdotjs&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-30363d?style=flat-square&logo=tauri&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-30363d?style=flat-square&logo=electron&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-30363d?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-30363d?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**데이터베이스 · Database**
+
+![SQLite](https://img.shields.io/badge/SQLite-30363d?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-30363d?style=flat-square&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-30363d?style=flat-square&logo=neon&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-30363d?style=flat-square&logo=firebase&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-30363d?style=flat-square&logo=redis&logoColor=white)
+
+**AI 모델 · AI / LLM**
+
+![Claude](https://img.shields.io/badge/Claude-30363d?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMi4yODE5IDkuODIxMWE1Ljk4NDcgNS45ODQ3IDAgMCAwLS41MTU3LTQuOTEwOCA2LjA0NjIgNi4wNDYyIDAgMCAwLTYuNTA5OC0yLjlBNi4wNjUxIDYuMDY1MSAwIDAgMCA0Ljk4MDcgNC4xODE4YTUuOTg0NyA1Ljk4NDcgMCAwIDAtMy45OTc3IDIuOSA2LjA0NjIgNi4wNDYyIDAgMCAwIC43NDI3IDcuMDk2NiA1Ljk4IDUuOTggMCAwIDAgLjUxMSA0LjkxMDcgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTQ2IDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQxOS4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3eiIvPjwvc3ZnPgo=) ![Gemini](https://img.shields.io/badge/Gemini-30363d?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-30363d?style=flat-square&logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-30363d?style=flat-square&logo=huggingface&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-30363d?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+**배포 · 도구 · Deploy & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-30363d?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-30363d?style=flat-square&logo=netlify&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-30363d?style=flat-square&logo=railway&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-30363d?style=flat-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363d?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 활동 · Activity
+
+<div align="center">
+
+**AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반</sub>
+
+![Tokens](https://img.shields.io/badge/Tokens-492M%2B-6366F1?style=flat-square) ![Sessions](https://img.shields.io/badge/Sessions-2%2C517%2B-30363d?style=flat-square) ![Agents](https://img.shields.io/badge/Agents-Claude%20·%20Codex%20·%20Gemini%20·%20Qwen-30363d?style=flat-square)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodam-ai&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
+
+</div>
+
+---
+
+## 연락처 · Contact
+
+<div align="center">
+
+### 필요한 도구, 직접 만들어 드립니다
+
+아이디어를 **AI로 빠르게 '작동하는 제품'으로** 만듭니다.<br/>
+웹 · 데스크톱 앱 · 자동화 도구 제작 **의뢰 · 협업** 환영합니다.
+
+<a href="https://open.kakao.com/o/sTnlcmgh"><img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=60&text=%F0%9F%92%AC%20%EC%9E%91%EC%97%85%20%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" alt="작업 문의하기 (카카오 오픈채팅)"/></a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://www.sodam-ai.xyz)
+[![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](https://sodam-ai.github.io/sodam-ai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodam-ai)
+[![Threads](https://img.shields.io/badge/Threads-30363d?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@sodam_ai/)
+[![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sodam_ai/)
+[![YouTube](https://img.shields.io/badge/YouTube-30363d?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Sodam_AI_Studio)
+[![Litt.ly](https://img.shields.io/badge/Litt.ly-30363d?style=flat-square)](https://litt.ly/sodam_ai)
+
+</div>
