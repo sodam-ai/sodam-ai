@@ -12,11 +12,19 @@
 
 ## 소개 · About Me
 
+<div align="center">
+
 <table>
 <tr>
 <td width="34%" valign="top">
 
-> **AI를 무기로, 아이디어를 빠르게<br/>'진짜 작동하는 제품'으로 만드는<br/>1인 개발 메이커입니다.**
+<table>
+<tr><td bgcolor="#211f42">
+
+**AI를 무기로, 아이디어를 빠르게<br/>'진짜 작동하는 제품'으로 만드는<br/>1인 개발 메이커입니다.**
+
+</td></tr>
+</table>
 
 </td>
 <td width="66%" valign="top">
@@ -34,15 +42,18 @@
 </tr>
 </table>
 
+</div>
 
 ---
 
 ## 작업한 프로젝트 · Projects
 
-<table>
-<tr><td>
+<div align="center">
 
-#### 🔥 [SoDam-WikiMate](https://github.com/sodam-ai/SoDam-WikiMate) <sub>⭐ 51 · 가장 많은 스타를 받은 대표작</sub>
+<table>
+<tr><td bgcolor="#211f42">
+
+#### 🔥 [SoDam-WikiMate](https://github.com/sodam-ai/SoDam-WikiMate) <img src="https://img.shields.io/github/stars/sodam-ai/SoDam-WikiMate?style=flat-square&label=%E2%AD%90&color=6366F1&labelColor=1A1B27" alt="stars" valign="middle"/> <sub>가장 많은 스타를 받은 대표작</sub>
 
 흩어진 자료를 Obsidian·Notion에 자동 정리하는 AI 도구 — 보관함 자동탐지·자동 링크·중복 탐지까지 사람 승인 게이트를 거쳐 안전하게 처리합니다.
 
@@ -52,23 +63,25 @@
 <br/>
 
 <table>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Harness-Eng">SoDam-Harness-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>AI 위험 작업 자동 차단·백업·되돌리기</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Context-Eng">SoDam-Context-Eng</a></b></td><td width="1%" align="center">⭐3</td><td>AI 사용설명서(CLAUDE.md) 검진·다듬기</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Loop-Eng">SoDam-Loop-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>안전장치 갖춘 AI 반복 작업 자동화</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Agentic-Eng">SoDam-Agentic-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>계획→실행→검토, 체계적인 AI 작업 파트너</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Prompt-Eng">SoDam-Prompt-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>초보자용 한국어 글쓰기 스킬 모음</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Reverse-Eng">SoDam-Reverse-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>방어·교육 전용 리버스 엔지니어링 분석</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Graph-Eng">SoDam-Graph-Eng</a></b></td><td width="1%" align="center">⭐2</td><td>소담 7형제 진행 상태 자동 지도화</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-WikiMate">SoDam-WikiMate</a></b></td><td width="1%" align="center">⭐51</td><td>흩어진 자료를 Obsidian·Notion에 자동 정리</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona">SoDam-Persona</a></b></td><td width="1%" align="center">⭐17</td><td>15명 전문가 관점의 AI 개발 파트너 페르소나</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam_O-Brain">SoDam O-Brain</a></b></td><td width="1%" align="center">⭐14</td><td>대화의 결정·약속을 자동 기억하는 100% 로컬 지식그래프</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Agent">SoDam-Agent</a></b></td><td width="1%" align="center">⭐14</td><td>역할별 AI 에이전트 팀 마켓플레이스 설치 도구</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-SeoMedic">SoDam-SeoMedic</a></b></td><td width="1%" align="center">⭐13</td><td>웹사이트 SEO/GEO 진단·자동 수정</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/ClaudeTower">ClaudeTower</a></b></td><td width="1%" align="center">⭐9</td><td>Claude Code 상태표시줄 — 모델·컨텍스트·비용 표시</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Design-Kit">SoDam-Design-Kit</a></b></td><td width="1%" align="center">⭐6</td><td>Figma 디자인 → shadcn/ui 코드 자동 변환</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona-Codex">SoDam-Persona-Codex</a></b></td><td width="1%" align="center">⭐6</td><td>OpenAI Codex용 한국어 AI 개발 파트너 페르소나</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/business-counselor">business-counselor</a></b></td><td width="1%" align="center">⭐3</td><td>13명 다관점 토론으로 사업 아이디어 검증</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Harness-Eng">SoDam-Harness-Eng</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Harness-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>AI 위험 작업 자동 차단·백업·되돌리기</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Context-Eng">SoDam-Context-Eng</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Context-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>AI 사용설명서(CLAUDE.md) 검진·다듬기</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Loop-Eng">SoDam-Loop-Eng</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Loop-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>안전장치 갖춘 AI 반복 작업 자동화</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Agentic-Eng">SoDam-Agentic-Eng</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Agentic-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>계획→실행→검토, 체계적인 AI 작업 파트너</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Prompt-Eng">SoDam-Prompt-Eng</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Prompt-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>초보자용 한국어 글쓰기 스킬 모음</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Reverse-Eng">SoDam-Reverse-Eng</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Reverse-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>방어·교육 전용 리버스 엔지니어링 분석</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Graph-Eng">SoDam-Graph-Eng</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Graph-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>소담 7형제 진행 상태 자동 지도화</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-WikiMate">SoDam-WikiMate</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-WikiMate?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>흩어진 자료를 Obsidian·Notion에 자동 정리</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona">SoDam-Persona</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Persona?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>15명 전문가 관점의 AI 개발 파트너 페르소나</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam_O-Brain">SoDam O-Brain</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam_O-Brain?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>대화의 결정·약속을 자동 기억하는 100% 로컬 지식그래프</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Agent">SoDam-Agent</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Agent?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>역할별 AI 에이전트 팀 마켓플레이스 설치 도구</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-SeoMedic">SoDam-SeoMedic</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-SeoMedic?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>웹사이트 SEO/GEO 진단·자동 수정</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/ClaudeTower">ClaudeTower</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/ClaudeTower?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>Claude Code 상태표시줄 — 모델·컨텍스트·비용 표시</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Design-Kit">SoDam-Design-Kit</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Design-Kit?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>Figma 디자인 → shadcn/ui 코드 자동 변환</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona-Codex">SoDam-Persona-Codex</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Persona-Codex?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>OpenAI Codex용 한국어 AI 개발 파트너 페르소나</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/business-counselor">business-counselor</a></b></td><td width="1%" align="center"><img src="https://img.shields.io/github/stars/sodam-ai/business-counselor?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/></td><td>13명 다관점 토론으로 사업 아이디어 검증</td></tr>
 </table>
+
+</div>
 
 
 <div align="center">
@@ -92,17 +105,23 @@
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,rust,java,html,css,bash,powershell&theme=dark" alt="Languages"/>
 
+<sub>Python · TypeScript · JavaScript · Rust · Java · HTML · CSS · Bash · PowerShell</sub>
+
 ![Windows Batch](https://img.shields.io/badge/Windows%20Batch-30363d?style=flat-square&logo=gnometerminal&logoColor=white)
 
 **프론트엔드 · 데스크톱 · Frontend & Desktop**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tauri,electron,nodejs,vite,tailwind&theme=dark" alt="Frontend & Desktop"/>
 
+<sub>React · Next.js · Tauri · Electron · Node.js · Vite · Tailwind CSS</sub>
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white)
 
 **데이터베이스 · Database**
 
 <img src="https://skillicons.dev/icons?i=sqlite,postgres,supabase,mongodb,firebase,redis&theme=dark" alt="Database"/>
+
+<sub>SQLite · PostgreSQL · Supabase · MongoDB · Firebase · Redis</sub>
 
 ![Neon](https://img.shields.io/badge/Neon-30363d?style=flat-square&logo=neon&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
 
@@ -113,6 +132,8 @@
 **배포 · 도구 · Deploy & Tools**
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker,githubactions,git&theme=dark" alt="Deploy & Tools"/>
+
+<sub>Vercel · Netlify · Cloudflare · Docker · GitHub Actions · Git</sub>
 
 ![Railway](https://img.shields.io/badge/Railway-30363d?style=flat-square&logo=railway&logoColor=white)
 
@@ -130,7 +151,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sodam-ai&theme=dark&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak Stats" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=sodam-ai&theme=dark&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&cache_bust=20260824" alt="GitHub Streak Stats" width="60%"/>
 
 <br/><br/>
 
