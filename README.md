@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=9CA3AF&center=true&vCenter=true&width=700&height=30&lines=AI%EB%A1%9C%20%EC%9B%B9%20%C2%B7%20%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1%20%EC%95%B1%20%C2%B7%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%201%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%20%EB%A9%94%EC%9D%B4%EC%BB%A4;%EA%B8%B0%ED%9A%8D%20%E2%86%92%20%EA%B0%9C%EB%B0%9C%20%E2%86%92%20%EB%B0%B0%ED%8F%AC%2C%20%EC%A0%84%20%EA%B3%BC%EC%A0%95%EC%9D%84%20%ED%98%BC%EC%9E%90%EC%84%9C%20%EB%B9%A0%EB%A5%B4%EA%B2%8C;%EC%97%AD%ED%95%A0%EB%B3%84%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%88%ED%98%95%20%EC%83%9D%ED%83%9C%EA%B3%84%EB%A5%BC%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EA%B3%B5%EA%B0%9C%ED%95%9C%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2070%EA%B0%9C%20%EC%9D%B4%EC%83%81" alt="Typing SVG" />
 
-📍 South Korea
-
 </div>
 
 ---
@@ -16,9 +14,13 @@
 
 <table>
 <tr>
-<td width="34%" valign="top">
+<td width="34%" valign="middle">
+
+#### 한눈에 보기
 
 > **AI를 무기로, 아이디어를 빠르게<br/>'진짜 작동하는 제품'으로 만드는<br/>1인 개발 메이커입니다.**
+
+📍 South Korea
 
 </td>
 <td width="66%" valign="top">
