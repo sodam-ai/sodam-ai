@@ -16,7 +16,7 @@
 <tr>
 <td width="34%" valign="middle" align="center">
 
-<img src="docs/intro-illustration.jpg" width="280" alt="SoDam AI Studio — 1인 개발 메이커"/>
+<img src="docs/intro-illustration-2.png" width="280" alt="SoDam AI Studio — 1인 개발 메이커"/>
 
 </td>
 <td width="66%" valign="top">
