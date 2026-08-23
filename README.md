@@ -88,7 +88,7 @@
 
 <sub>Python · TypeScript · JavaScript · Rust · Java · HTML · CSS · Bash · PowerShell</sub>
 
-![Windows Batch](https://img.shields.io/badge/Windows%20Batch-30363d?style=flat-square&logo=gnometerminal&logoColor=white&cb=2)
+![Windows Batch](https://img.shields.io/badge/Windows%20Batch-30363d?style=flat-square)
 
 **프론트엔드 · 데스크톱 · Frontend & Desktop**
 
@@ -96,7 +96,7 @@
 
 <sub>React · Next.js · Tauri · Electron · Node.js · Vite · Tailwind CSS</sub>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white&cb=2)
+![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square)
 
 **데이터베이스 · Database**
 
@@ -104,11 +104,11 @@
 
 <sub>SQLite · PostgreSQL · Supabase · MongoDB · Firebase · Redis</sub>
 
-![Neon](https://img.shields.io/badge/Neon-30363d?style=flat-square&logo=neon&logoColor=white&cb=2) ![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square&logo=neo4j&logoColor=white&cb=2) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
+![Neon](https://img.shields.io/badge/Neon-30363d?style=flat-square) ![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
 
 **AI 모델 · AI / LLM**
 
-![Claude](https://img.shields.io/badge/Claude-30363d?style=flat-square&logo=anthropic&logoColor=white&cb=2) ![OpenAI](https://img.shields.io/badge/OpenAI-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMi4yODE5IDkuODIxMWE1Ljk4NDcgNS45ODQ3IDAgMCAwLS41MTU3LTQuOTEwOCA2LjA0NjIgNi4wNDYyIDAgMCAwLTYuNTA5OC0yLjlBNi4wNjUxIDYuMDY1MSAwIDAgMCA0Ljk4MDcgNC4xODE4YTUuOTg0NyA1Ljk4NDcgMCAwIDAtMy45OTc3IDIuOSA2LjA0NjIgNi4wNDYyIDAgMCAwIC43NDI3IDcuMDk2NiA1Ljk4IDUuOTggMCAwIDAgLjUxMSA0LjkxMDcgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTQ2IDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQxOS4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3eiIvPjwvc3ZnPgo=) ![Gemini](https://img.shields.io/badge/Gemini-30363d?style=flat-square&logo=googlegemini&logoColor=white&cb=2) ![Ollama](https://img.shields.io/badge/Ollama-30363d?style=flat-square&logo=ollama&logoColor=white&cb=2) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-30363d?style=flat-square&logo=huggingface&logoColor=white&cb=2) ![MCP](https://img.shields.io/badge/MCP-30363d?style=flat-square&logo=modelcontextprotocol&logoColor=white&cb=2)
+![Claude](https://img.shields.io/badge/Claude-30363d?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-30363d?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-30363d?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-30363d?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-30363d?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-30363d?style=flat-square)
 
 **배포 · 도구 · Deploy & Tools**
 
@@ -116,7 +116,7 @@
 
 <sub>Vercel · Netlify · Cloudflare · Docker · GitHub Actions · Git</sub>
 
-![Railway](https://img.shields.io/badge/Railway-30363d?style=flat-square&logo=railway&logoColor=white&cb=2)
+![Railway](https://img.shields.io/badge/Railway-30363d?style=flat-square)
 
 </div>
 
