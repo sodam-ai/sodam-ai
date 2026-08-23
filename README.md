@@ -16,11 +16,7 @@
 <tr>
 <td width="34%" valign="middle" align="center">
 
-<img src="docs/intro-illustration.jpg" width="200" alt="SoDam AI Studio — 1인 개발 메이커"/>
-
-<h3>"AI를 무기로, 아이디어를 빠르게<br/>'진짜 작동하는 제품'으로 만드는<br/>1인 개발 메이커입니다."</h3>
-
-![South Korea](https://img.shields.io/badge/📍_South_Korea-6366F1?style=for-the-badge&logoColor=white)
+<img src="docs/intro-illustration.jpg" width="280" alt="SoDam AI Studio — 1인 개발 메이커"/>
 
 </td>
 <td width="66%" valign="top">
