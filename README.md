@@ -39,7 +39,7 @@
 
 ---
 
-## 작업한 프로젝트 · Projects
+## 프로젝트 · Projects
 
 <div align="center">
 
