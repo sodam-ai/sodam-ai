@@ -44,20 +44,6 @@
 <div align="center">
 
 <table>
-<tr><td>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=32&text=%F0%9F%94%A5%20%EB%8C%80%ED%91%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&fontSize=14&fontColor=ffffff&fontAlignY=58" width="100%" alt="대표 프로젝트"/>
-
-#### [SoDam-WikiMate](https://github.com/sodam-ai/SoDam-WikiMate) <img src="https://img.shields.io/github/stars/sodam-ai/SoDam-WikiMate?style=flat-square&label=%E2%AD%90&color=6366F1&labelColor=1A1B27" alt="stars" height="20"/> <sub>가장 많은 스타를 받은 대표작</sub>
-
-흩어진 자료를 Obsidian·Notion에 자동 정리하는 AI 도구 — 보관함 자동탐지·자동 링크·중복 탐지까지 사람 승인 게이트를 거쳐 안전하게 처리합니다.
-
-</td></tr>
-</table>
-
-<br/>
-
-<table>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Harness-Eng">SoDam-Harness-Eng</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Harness-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>AI 위험 작업 자동 차단·백업·되돌리기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Context-Eng">SoDam-Context-Eng</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Context-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>AI 사용설명서(CLAUDE.md) 검진·다듬기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Loop-Eng">SoDam-Loop-Eng</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Loop-Eng?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>안전장치 갖춘 AI 반복 작업 자동화&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
@@ -81,7 +67,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sodam-ai?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=70&text=%F0%9F%93%82%20%EC%A0%84%EC%B2%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0%20%E2%86%92&fontSize=24&fontColor=ffffff&fontAlignY=58" width="100%" alt="전체 프로젝트 보러가기"/></a>
+<a href="https://github.com/sodam-ai?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=70&text=%F0%9F%93%82%20%EC%A0%84%EC%B2%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0%20%E2%86%92&fontSize=24&fontColor=ffffff&fontAlignY=58" width="751" alt="전체 프로젝트 보러가기"/></a>
 
 
 
