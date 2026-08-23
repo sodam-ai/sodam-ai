@@ -98,7 +98,9 @@
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,supabase,mongodb,firebase,redis,neon,neo4j&theme=dark" alt="Database"/>
 
-<sub>SQLite · PostgreSQL · Supabase · MongoDB · Firebase · Redis · Neon · Neo4j · ChromaDB</sub>
+<sub>SQLite · PostgreSQL · Supabase · MongoDB · Firebase · Redis · Neon · Neo4j</sub>
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
 
 **AI 모델 · AI / LLM**
 
