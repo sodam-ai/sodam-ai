@@ -102,7 +102,7 @@
 
 **AI 모델 · AI / LLM**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,ollama,huggingface,mcp&theme=dark" alt="AI / LLM"/>
+<img src="docs/icons/claude.svg" alt="Claude"/><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,ollama,huggingface,mcp&theme=dark" alt="AI / LLM"/>
 
 <sub>Claude · OpenAI · Gemini · Ollama · Hugging Face · MCP</sub>
 
