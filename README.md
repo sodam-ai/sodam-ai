@@ -91,19 +91,19 @@
 **언어 · Languages**
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,rust,java,html,css,bash,powershell&theme=dark" alt="Languages"/>
-<br/>
+
 ![Windows Batch](https://img.shields.io/badge/Windows%20Batch-30363d?style=flat-square&logo=gnometerminal&logoColor=white)
 
 **프론트엔드 · 데스크톱 · Frontend & Desktop**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tauri,electron,nodejs,vite,tailwind&theme=dark" alt="Frontend & Desktop"/>
-<br/>
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white)
 
 **데이터베이스 · Database**
 
 <img src="https://skillicons.dev/icons?i=sqlite,postgres,supabase,mongodb,firebase,redis&theme=dark" alt="Database"/>
-<br/>
+
 ![Neon](https://img.shields.io/badge/Neon-30363d?style=flat-square&logo=neon&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-30363d?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
 
 **AI 모델 · AI / LLM**
@@ -113,7 +113,7 @@
 **배포 · 도구 · Deploy & Tools**
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker,githubactions,git&theme=dark" alt="Deploy & Tools"/>
-<br/>
+
 ![Railway](https://img.shields.io/badge/Railway-30363d?style=flat-square&logo=railway&logoColor=white)
 
 </div>
