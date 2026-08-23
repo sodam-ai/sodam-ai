@@ -143,13 +143,17 @@
 
 **AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반</sub>
 
-![Tokens](https://img.shields.io/badge/Tokens-492M%2B-6366F1?style=flat-square) ![Sessions](https://img.shields.io/badge/Sessions-2%2C517%2B-30363d?style=flat-square) ![Agents](https://img.shields.io/badge/Agents-Claude%20·%20Codex%20·%20Gemini%20·%20Qwen-30363d?style=flat-square)
+![Tokens](https://img.shields.io/badge/Tokens-492M%2B-6366F1?style=for-the-badge&logo=stackblitz&logoColor=white) ![Sessions](https://img.shields.io/badge/Sessions-2%2C517%2B-3B82F6?style=for-the-badge&logo=clockify&logoColor=white) ![Agents](https://img.shields.io/badge/Agents-Claude_·_Codex_·_Gemini_·_Qwen-10B981?style=for-the-badge&logo=robotframework&logoColor=white)
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=sodam-ai&theme=dark&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&cache_bust=20260824" alt="GitHub Streak Stats" width="60%"/>
 
 <br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sodam-ai&bg_color=1A1B27&color=9CA3AF&line=6366F1&point=6366F1&area=true&area_color=6366F1&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodam-ai&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 
