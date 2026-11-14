@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:30363D&height=180&section=header&text=SoDam%20AI%20Studio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Maker%20·%20Web%20·%20Desktop%20·%20Automation&descSize=15&descAlignY=58&descColor=9CA3AF" width="100%" alt="SoDam AI Studio"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=9CA3AF&center=true&vCenter=true&width=700&height=30&lines=AI%EB%A1%9C%20%EC%9B%B9%20%C2%B7%20%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1%20%EC%95%B1%20%C2%B7%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%201%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%20%EB%A9%94%EC%9D%B4%EC%BB%A4;%EA%B8%B0%ED%9A%8D%20%E2%86%92%20%EA%B0%9C%EB%B0%9C%20%E2%86%92%20%EB%B0%B0%ED%8F%AC%2C%20%EC%A0%84%20%EA%B3%BC%EC%A0%95%EC%9D%84%20%ED%98%BC%EC%9E%90%EC%84%9C%20%EB%B9%A0%EB%A5%B4%EA%B2%8C;%EC%97%AD%ED%95%A0%EB%B3%84%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%88%ED%98%95%20%EC%83%9D%ED%83%9C%EA%B3%84%EB%A5%BC%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EA%B3%B5%EA%B0%9C%ED%95%9C%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2070%EA%B0%9C%20%EC%9D%B4%EC%83%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=9CA3AF&center=true&vCenter=true&width=700&height=30&lines=AI%EB%A1%9C%20%EC%9B%B9%20%C2%B7%20%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1%20%EC%95%B1%20%C2%B7%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%201%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%20%EB%A9%94%EC%9D%B4%EC%BB%A4;%EA%B8%B0%ED%9A%8D%20%E2%86%92%20%EA%B0%9C%EB%B0%9C%20%E2%86%92%20%EB%B0%B0%ED%8F%AC%2C%20%EC%A0%84%20%EA%B3%BC%EC%A0%95%EC%9D%84%20%ED%98%BC%EC%9E%90%EC%84%9C%20%EB%B9%A0%EB%A5%B4%EA%B2%8C;%EC%97%AD%ED%95%A0%EB%B3%84%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%88%ED%98%95%20%EC%83%9D%ED%83%9C%EA%B3%84%EB%A5%BC%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EA%B3%B5%EA%B0%9C%ED%95%9C%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2060%EA%B0%9C%20%EC%9D%B4%EC%83%81" alt="Typing SVG" />
 
 </div>
 
@@ -54,7 +54,6 @@
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-WikiMate">SoDam-WikiMate</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-WikiMate?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>흩어진 자료를 Obsidian·Notion에 자동 정리&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona">SoDam-Persona</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Persona?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>15명 전문가 관점의 AI 개발 파트너 페르소나&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam_O-Brain">SoDam O-Brain</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam_O-Brain?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>대화의 결정·약속을 자동 기억하는 100% 로컬 지식그래프&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Agent">SoDam-Agent</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Agent?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>역할별 AI 에이전트 팀 마켓플레이스 설치 도구&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-SeoMedic">SoDam-SeoMedic</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-SeoMedic?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>웹사이트 SEO/GEO 진단·자동 수정&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/ClaudeTower">ClaudeTower</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/ClaudeTower?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>Claude Code 상태표시줄 — 모델·컨텍스트·비용 표시&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Design-Kit">SoDam-Design-Kit</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Design-Kit?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>Figma 디자인 → shadcn/ui 코드 자동 변환&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
@@ -84,31 +83,31 @@
 
 **언어 · Languages**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,ts,js,rust,java,html,css,bash,powershell,windows&theme=dark" alt="Languages"/>
+<img src="docs/icons/stack-languages.svg" alt="Languages"/>
 
 <sub>Python · TypeScript · JavaScript · Rust · Java · HTML · CSS · Bash · PowerShell · Windows Batch</sub>
 
 **프론트엔드 · 데스크톱 · Frontend & Desktop**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tauri,electron,nodejs,vite,tailwindcss,streamlit&theme=dark" alt="Frontend &amp; Desktop"/>
+<img src="docs/icons/stack-frontend.svg" alt="Frontend &amp; Desktop"/>
 
 <sub>React · Next.js · Tauri · Electron · Node.js · Vite · Tailwind CSS · Streamlit</sub>
 
 **데이터베이스 · Database**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,supabase,mongodb,firebase,redis,neon,neo4j&theme=dark" alt="Database"/>&nbsp;&nbsp;<img src="docs/icons/chromadb.svg" alt="ChromaDB"/>
+<img src="docs/icons/stack-database.svg" alt="Database"/>&nbsp;&nbsp;<img src="docs/icons/chromadb.svg" alt="ChromaDB"/>
 
 <sub>SQLite · PostgreSQL · Supabase · MongoDB · Firebase · Redis · Neon · Neo4j · ChromaDB</sub>
 
 **AI 모델 · AI / LLM**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,ollama,huggingface,mcp&theme=dark" alt="AI / LLM"/>
+<img src="docs/icons/stack-ai.svg" alt="AI / LLM"/>
 
 <sub>Claude · OpenAI · Gemini · Ollama · Hugging Face · MCP</sub>
 
 **배포 · 도구 · Deploy & Tools**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,cloudflare,docker,githubactions,git,railway&theme=dark" alt="Deploy &amp; Tools"/>
+<img src="docs/icons/stack-deploy.svg" alt="Deploy &amp; Tools"/>
 
 <sub>Vercel · Netlify · Cloudflare · Docker · GitHub Actions · Git · Railway</sub>
 
