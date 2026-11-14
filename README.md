@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:30363D&height=180&section=header&text=SoDam%20AI%20Studio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Maker%20·%20Web%20·%20Desktop%20·%20Automation&descSize=15&descAlignY=58&descColor=9CA3AF" width="100%" alt="SoDam AI Studio"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=9CA3AF&center=true&vCenter=true&width=700&height=30&lines=AI%EB%A1%9C%20%EC%9B%B9%20%C2%B7%20%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1%20%EC%95%B1%20%C2%B7%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%201%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%20%EB%A9%94%EC%9D%B4%EC%BB%A4;%EA%B8%B0%ED%9A%8D%20%E2%86%92%20%EA%B0%9C%EB%B0%9C%20%E2%86%92%20%EB%B0%B0%ED%8F%AC%2C%20%EC%A0%84%20%EA%B3%BC%EC%A0%95%EC%9D%84%20%ED%98%BC%EC%9E%90%EC%84%9C%20%EB%B9%A0%EB%A5%B4%EA%B2%8C;%EC%97%AD%ED%95%A0%EB%B3%84%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%88%ED%98%95%20%EC%83%9D%ED%83%9C%EA%B3%84%EB%A5%BC%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EA%B3%B5%EA%B0%9C%ED%95%9C%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2060%EA%B0%9C%20%EC%9D%B4%EC%83%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=9CA3AF&center=true&vCenter=true&width=700&height=30&lines=AI%EB%A1%9C%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%20%C2%B7%20%EC%95%B1%20%C2%B7%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%201%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%20%EB%A9%94%EC%9D%B4%EC%BB%A4;Claude%20Code%EC%99%80%20Codex%20%EC%96%91%EC%AA%BD%EC%97%90%EC%84%9C%20%EC%93%B0%EB%8A%94%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%9D%BC%EA%B3%B1%20%ED%98%95%EC%A0%9C%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%95%9C%20%ED%8C%80%EC%B2%98%EB%9F%BC%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EC%83%9D%ED%83%9C%EA%B3%84;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2080%EA%B0%9C%20%EC%9D%B4%EC%83%81" alt="Typing SVG" />
 
 </div>
 
@@ -22,13 +22,13 @@
 <td width="66%" valign="top">
 
 <table>
-<tr><td><b>끝까지 만든다</b></td><td>직접 만들어 공개한 프로젝트 <b>60개 이상</b></td></tr>
+<tr><td><b>끝까지 만든다</b></td><td>직접 만든 프로젝트 <b>80개 이상</b></td></tr>
 <tr><td><b>혼자서 빠르게</b></td><td>기획 → 개발 → 배포까지 단독으로 완성</td></tr>
-<tr><td><b>분야를 안 가린다</b></td><td>웹 · 데스크톱 앱 · CLI · 자동화 도구 · AI 플러그인까지</td></tr>
-<tr><td><b>생태계로 만든다</b></td><td>역할별 플러그인이 한 팀처럼 협력하는 모듈형 생태계</td></tr>
-<tr><td><b>AI를 무기로</b></td><td>여러 AI를 직접 연동해 도구를 만듦</td></tr>
-<tr><td><b>빠른 습득력</b></td><td>다양한 언어와 여러 프레임워크를 실전에 바로 적용</td></tr>
-<tr><td><b>검증하며 안전하게</b></td><td>실제 화면까지 직접 확인하고, 보안장치를 갖춰 꾸준히 만듦</td></tr>
+<tr><td><b>분야를 안 가린다</b></td><td>AI 플러그인 · 데스크톱 앱 · 원클릭 설치 키트 · MCP 도구 · 건축 3D 자동화까지</td></tr>
+<tr><td><b>생태계로 만든다</b></td><td>7형제 플러그인이 한 팀처럼 협력하는 모듈형 생태계</td></tr>
+<tr><td><b>AI를 무기로</b></td><td>Claude Code · Codex 양쪽에서 쓰는 플러그인과 MCP 도구를 직접 제작</td></tr>
+<tr><td><b>초보자 눈높이</b></td><td>코드를 몰라도 쓰도록 한국어 안내와 원클릭 설치를 기본 제공</td></tr>
+<tr><td><b>검증하며 안전하게</b></td><td>실제 화면으로 확인하고, 위험 작업 차단 · 백업 · 되돌리기를 갖춰 만듦</td></tr>
 </table>
 
 </td>
@@ -58,8 +58,8 @@
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/ClaudeTower">ClaudeTower</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/ClaudeTower?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>Claude Code 상태표시줄 — 모델·컨텍스트·비용 표시&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Design-Kit">SoDam-Design-Kit</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Design-Kit?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>Figma 디자인 → shadcn/ui 코드 자동 변환&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-Persona-Codex">SoDam-Persona-Codex</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-Persona-Codex?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>OpenAI Codex용 한국어 AI 개발 파트너 페르소나&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/business-counselor">business-counselor</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/business-counselor?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>13명 다관점 토론으로 사업 아이디어 검증&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-</table>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam_O-Brain-Codex">SoDam O-Brain-Codex</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam_O-Brain-Codex?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>Codex 대화의 결정·제약을 기억하는 로컬 지식그래프&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td width="1%" nowrap><b><a href="https://github.com/sodam-ai/SoDam-WikiMate-Codex">SoDam-WikiMate-Codex</a></b>&nbsp;&nbsp;&nbsp;&nbsp;</td><td nowrap align="center">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/sodam-ai/SoDam-WikiMate-Codex?style=flat-square&label=%E2%AD%90&color=30363d&labelColor=30363d" alt="stars"/>&nbsp;&nbsp;&nbsp;</td><td>Codex에서 Obsidian 지식을 수집·정리·검색&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr></table>
 
 </div>
 
