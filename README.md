@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:30363D&height=180&section=header&text=SoDam%20AI%20Studio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Maker%20·%20Web%20·%20Desktop%20·%20Automation&descSize=15&descAlignY=58&descColor=9CA3AF" width="100%" alt="SoDam AI Studio"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:30363D&height=180&section=header&text=SoDam%20AI%20Studio&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=ArchViz%20%C3%97%20AI%20·%20Content%20·%20Vibe%20Coding%20·%20Automation&descSize=15&descAlignY=58&descColor=9CA3AF" width="100%" alt="SoDam AI Studio"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=9CA3AF&center=true&vCenter=true&width=700&height=30&lines=AI%EB%A1%9C%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%20%C2%B7%20%EC%95%B1%20%C2%B7%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%201%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%20%EB%A9%94%EC%9D%B4%EC%BB%A4;Claude%20Code%EC%99%80%20Codex%20%EC%96%91%EC%AA%BD%EC%97%90%EC%84%9C%20%EC%93%B0%EB%8A%94%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%9D%BC%EA%B3%B1%20%ED%98%95%EC%A0%9C%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%95%9C%20%ED%8C%80%EC%B2%98%EB%9F%BC%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EC%83%9D%ED%83%9C%EA%B3%84;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2080%EA%B0%9C%20%EC%9D%B4%EC%83%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=9CA3AF&center=true&vCenter=true&width=700&height=30&lines=AI%EB%A1%9C%20%EA%B1%B4%EC%84%A4%20%C2%B7%20%EA%B1%B4%EC%B6%95%20%C2%B7%20%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%EC%8B%9C%EA%B0%81%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%A7%84%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4;AI%20%EC%BD%98%ED%85%90%EC%B8%A0%20%C2%B7%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%C2%B7%20%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8F%84%20%ED%95%A8%EA%BB%98%ED%95%A9%EB%8B%88%EB%8B%A4;%EC%9D%BC%EA%B3%B1%20%ED%98%95%EC%A0%9C%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%95%9C%20%ED%8C%80%EC%B2%98%EB%9F%BC%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EC%83%9D%ED%83%9C%EA%B3%84;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2080%EA%B0%9C%20%EC%9D%B4%EC%83%81" alt="Typing SVG" />
 
 </div>
 
@@ -22,9 +22,10 @@
 <td width="66%" valign="top">
 
 <table>
+<tr><td><b>메인 작업</b></td><td>AI <b>건설 · 건축 · 인테리어 시각화</b> — 투시도 · 공간 연출 이미지 · 영상</td></tr>
 <tr><td><b>끝까지 만든다</b></td><td>직접 만든 프로젝트 <b>80개 이상</b></td></tr>
 <tr><td><b>혼자서 빠르게</b></td><td>기획 → 개발 → 배포까지 단독으로 완성</td></tr>
-<tr><td><b>분야를 안 가린다</b></td><td>AI 플러그인 · 데스크톱 앱 · 원클릭 키트 · MCP 도구부터 AI를 활용한 건축 · 인테리어 · 건축시각화까지</td></tr>
+<tr><td><b>분야를 안 가린다</b></td><td>AI 콘텐츠 · 웹사이트 · 바이브코딩 · 자동화 도구 · AI 플러그인까지</td></tr>
 <tr><td><b>생태계로 만든다</b></td><td>7형제 플러그인이 한 팀처럼 협력하는 모듈형 생태계</td></tr>
 <tr><td><b>AI를 무기로</b></td><td>Claude Code · Codex 양쪽에서 쓰는 플러그인과 MCP 도구를 직접 제작</td></tr>
 <tr><td><b>초보자 눈높이</b></td><td>코드를 몰라도 쓰도록 한국어 안내와 원클릭 설치를 기본 제공</td></tr>
@@ -143,10 +144,11 @@
 
 <div align="center">
 
-### 필요한 도구, 전문적으로 만들어 드립니다
+### 필요한 작업, AI로 만들어 드립니다
 
-**기획 · 개발 · 배포**, 전 과정을 직접 설계하고 구현하는 실전형 개발자입니다.<br/>
-웹 · 데스크톱 앱 · 자동화 도구 제작 **의뢰 · 협업** 환영합니다.
+AI로 **건설 · 건축 · 인테리어 시각화** 프로젝트를 진행합니다.<br/>
+AI 콘텐츠 · 웹사이트 · 바이브코딩 · 자동화 도구 제작 **의뢰 · 협업**도 환영합니다.<br/>
+시각화 작업 사례는 [홈페이지](https://www.sodam-ai.xyz)에서 볼 수 있습니다.
 
 <a href="https://open.kakao.com/o/sTnlcmgh"><img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=60&text=%F0%9F%92%AC%20%EC%9E%91%EC%97%85%20%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" alt="작업 문의하기 (카카오 오픈채팅)"/></a>
 
