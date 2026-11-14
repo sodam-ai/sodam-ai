@@ -157,7 +157,7 @@ AI 콘텐츠 · 웹사이트 · 바이브코딩 · 자동화 도구 제작 **의
 [![LinkedIn](docs/icons/linkedin-badge.svg)](https://www.linkedin.com/in/sodam-ai)
 [![Threads](https://img.shields.io/badge/Threads-30363d?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@sodam_ai/)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sodam_ai/)
-[![YouTube](https://img.shields.io/badge/YouTube-30363d?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Sodam_AI_Studio)
+[![YouTube](https://img.shields.io/badge/YouTube-30363d?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@sodam_ai)
 [![Litt.ly](https://img.shields.io/badge/Litt.ly-30363d?style=flat-square)](https://litt.ly/sodam_ai)
 
 </div>
